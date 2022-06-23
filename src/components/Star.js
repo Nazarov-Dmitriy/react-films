@@ -21,7 +21,7 @@ export default function Star(props) {
     }
     return starItems;
   };
-
+ 
   return (
     <div>
       <ul className="card-body-stars u-clearfix">
